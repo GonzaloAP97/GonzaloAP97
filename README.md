@@ -1,16 +1,18 @@
-## Hello
+## Who I am?
 
 My name is Gonzalo, I'm from Spain.
 
-* Currently working for Valencia Basket (https://www.valenciabasket.com) as a Marketing and Sponsorship Officer
+* Graduated in International Business, and Master in Management of R&D processes and companies.
+
+* Currently working for Valencia Basket (https://www.valenciabasket.com) as a Marketing and Sponsorship Officer. I've been working here for 3 years.
 
 * Finishing my Master Studies as a Data Analyst in EDEM Escuela de Empresarios
 
 ## Skills
 
 * Docker, ETL, Cloud Computing, Data governance, SQL
-* Some AI and Machine Learning
-* Some Python coding
+* AI and Machine Learning
+* Python and HTML coding
 
 ## Contact
 
