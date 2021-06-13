@@ -1,4 +1,4 @@
-#Hello
+## Hello
 
 My name is Gonzalo, I'm from Spain.
 
@@ -8,16 +8,11 @@ My name is Gonzalo, I'm from Spain.
 
 ## Skills
 
-* Docker, Google Cloud
-* Some  AI, Deep Learning, ML
-* Some Python coding 
+* Docker, ETL, Cloud Computing, Data governance, SQL
+* Some AI and Machine Learning
+* Some Python coding
 
 ## Contact
 
-You can find me in LinkedIn (https://www.linkedin.com/in/gonzaloalberolapedrós/)
-
-# GonzaloAP97
-# GonzaloAP97
-# GonzaloAP97
-# GonzaloAP97
-# GonzaloAP97
+LinkedIn (https://www.linkedin.com/in/gonzaloalberolapedrós/)
+Emaill: alberolapedrosg@gmail.com
